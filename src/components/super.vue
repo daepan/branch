@@ -12,6 +12,10 @@
             <p>커엽</p>
             <img src="https://t1.daumcdn.net/cfile/tistory/221C69425704B63E2F" alt="">
         </div>
+        <div class="block__box">
+            <p>아 mr바다주세요</p>
+
+        </div>
 
 
     </div>
